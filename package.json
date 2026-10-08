@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "date.js": "^0.3.3"
+  }
+}
