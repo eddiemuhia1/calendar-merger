@@ -23,8 +23,8 @@ Installation
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/flat-calendar.git](https://github.com/YOUR_USERNAME/flat-calendar.git)
-   cd flat-calendar
+   git clone 
+   cd calendar-merger
 
 2. Install Dependencies
     npm install date.js
